@@ -2,5 +2,7 @@ body{
 background-color:blue;
 color:white;
 }
-
+html,body{
+  min-height:100%;
+}
 
